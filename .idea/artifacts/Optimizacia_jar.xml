@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Optimizacia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Optimizacia_jar</output-path>
+    <root id="archive" name="Optimizacia.jar">
+      <element id="module-output" name="Optimizacia" />
+    </root>
+  </artifact>
+</component>
